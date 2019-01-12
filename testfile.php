@@ -1,4 +1,7 @@
 <?php
+
+//hello this test-file branch
+
 require_once 'app/Mage.php';
 umask(0);
 Mage::app('default');
